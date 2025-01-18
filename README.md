@@ -13,6 +13,6 @@ I'm a Fullstack Web Developer & Cloud Engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samdazain&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=samdazain&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samdazain&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
